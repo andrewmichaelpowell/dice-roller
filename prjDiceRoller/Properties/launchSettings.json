@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "prjDiceRoller": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
