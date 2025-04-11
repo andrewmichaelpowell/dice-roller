@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DiceRoller": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
